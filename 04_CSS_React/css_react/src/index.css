@@ -1,0 +1,24 @@
+/* CSS GLOBAL */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 500px;
+}
+
+h2 {
+  color: red;
+}
+
+.pink-title {
+  background-color: black;
+  color: pink;
+  padding: 15px;
+  border: 5px solid pink;
+}
+
+.title {
+  background-color: black;
+  color: wheat;
+}
